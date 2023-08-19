@@ -2,8 +2,8 @@
 /**
  *  * print_alphabet - entry point
  *   * Description - prints all alphabet, in lowercase, followed by a new line
- *    * Return
- *     */
+ * Return
+ */
 void print_alphabet(void)
 {
 char chr;
